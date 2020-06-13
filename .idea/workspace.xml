@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aef6a46-9c1a-4afb-984e-6283a25685e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SILab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SILab2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +57,20 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
+  <component name="RunManager">
+    <configuration name="SILab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SILab2" />
+      <module name="SI_lab2_161553.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SILab2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -72,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592082418548</updated>
-      <workItem from="1592082424020" duration="416000" />
+      <workItem from="1592082424020" duration="2035000" />
     </task>
     <servers />
   </component>
@@ -83,9 +104,62 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1880" height="348" key="GridCell.Tab.0.bottom" timestamp="1592084279348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592084279348" />
+    <state width="1880" height="348" key="GridCell.Tab.0.center" timestamp="1592084279347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592084279347" />
+    <state width="1880" height="348" key="GridCell.Tab.0.left" timestamp="1592084279347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592084279347" />
+    <state width="1880" height="348" key="GridCell.Tab.0.right" timestamp="1592084279347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592084279347" />
+    <state width="1880" height="348" key="GridCell.Tab.1.bottom" timestamp="1592084279348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592084279348" />
+    <state width="1880" height="348" key="GridCell.Tab.1.center" timestamp="1592084279348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592084279348" />
+    <state width="1880" height="348" key="GridCell.Tab.1.left" timestamp="1592084279348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592084279348" />
+    <state width="1880" height="348" key="GridCell.Tab.1.right" timestamp="1592084279348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1880" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592084279348" />
     <state x="656" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1592082423041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592082423041" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SILab2.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SILab2.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SILab2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

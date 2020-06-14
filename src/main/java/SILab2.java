@@ -26,7 +26,7 @@ class User {
 
 public class SILab2 {
 
-    public boolean function(User user, List<String> allUsers) {
+    public static boolean function(User user, List<String> allUsers) {
         String specialCharacters = "!#$%&'()*+,-./:;<=>?@[]^_`{|}";
         if (user == null) { // 1
             throw new RuntimeException("The user is not instantiated"); // 2

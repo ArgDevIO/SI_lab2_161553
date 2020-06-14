@@ -8,7 +8,7 @@
 
 ###  Control Flow Graph
 
-![Control Flow Graph](CFG2.JPG "Control Flow Graph")
+![Control Flow Graph Image](img/CFG2.JPG "Control Flow Graph")
 
 ### Цикломатска комплексност
 
@@ -20,9 +20,14 @@
 
 ### Тест случаи според критериумот Every branch
 
-![Every Branch Tests](EveryBranchTests.JPG "Every Branch Tests")
+![Every Branch Tests Image](img/EveryBranchTests.JPG "Every Branch Tests")
 
 ### Објаснување на напишаните unit tests
+Прво имам направено test класа која се наоѓа во `src/test/java` со име **SILab2Test** на која што имам напишано функции посебно за секој од критериумите
 
-...
-...
+- Unit тестови за **Every branch** критериум  
+Вкупно имам напишано 6 unit тест случаи, првите две *(линија код 5-6 и 8-9-10)* си фрлат исклучок и затоа користиме `assertThrows()`
+и после со користење на `assertTrue()` само си проверуваме дали тој исклучок е тој што го очекуваме да се фрли на тој случаи, другите тестови се поедноставни
+пошто само очекуваме `boolean` резултат `true` или `false` и тоа ни го овозможуваат `assertTrue()` и `assertFalse()` методите
+
+![everyBranchTest() code snippet](img/everyBranchTestCode_Snippet1.png "everyBranchTest() code snippet")

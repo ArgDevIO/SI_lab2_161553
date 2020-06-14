@@ -30,4 +30,4 @@
 и после со користење на `assertTrue()` само си проверуваме дали тој исклучок е тој што го очекуваме да се фрли на тој случаи, другите тестови се поедноставни
 пошто само очекуваме `boolean` резултат `true` или `false` и тоа ни го овозможуваат `assertTrue()` и `assertFalse()` методите
 
-![everyBranchTest() code snippet](img/everyBranchTestCode_Snippet1.png "everyBranchTest() code snippet")
+![everyBranchTest() code snippet](img/everyBranchTestCode_Snippet.png "everyBranchTest() code snippet")

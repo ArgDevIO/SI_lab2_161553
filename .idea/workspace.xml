@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3aef6a46-9c1a-4afb-984e-6283a25685e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/CFG2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/EveryBranchTests.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/everyBranchTestCode_Snippet1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CFG2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EveryBranchTests.JPG" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/everyBranchTestCode_Snippet.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/everyBranchTestCode_Snippet1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +192,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592082418548</updated>
       <workItem from="1592082424020" duration="2035000" />
-      <workItem from="1592101412354" duration="3185000" />
+      <workItem from="1592101412354" duration="3523000" />
     </task>
     <servers />
   </component>
